@@ -1,1 +1,1 @@
-Numpy, Matplotlib and Pandas is used in the files of this repository.
+Numpy, Matplotlib and Pandas are used in the files of this repository.

@@ -9,3 +9,5 @@ Numpy, Matplotlib and Pandas are used in the files of this repository.
 ![](Pics/2.png)
 ## Output 3
 ![](Pics/3png.png)
+## Output 4
+![](Pics/4.png)

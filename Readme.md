@@ -19,3 +19,5 @@ Numpy, Matplotlib and Pandas are used in the files of this repository.
 ## Output 6
 ![](Pics/6.png)
 
+## Output 7
+![](Pics/7.png)
